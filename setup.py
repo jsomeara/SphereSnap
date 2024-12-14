@@ -21,9 +21,8 @@ setup(
     install_requires=['scipy>=1.5.1',
                       'opencv-python',
                       'matplotlib',
-                      'numpy',  
-                      'logging'                   
-                      ],
+                      'numpy'
+                     ],
 
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
